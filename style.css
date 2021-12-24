@@ -1,0 +1,7 @@
+canvas{
+    /* background-image: url(/bg.png); */
+    display: block;
+    margin: 10% auto;
+    box-shadow:3px 3px 5px 6px #cccccc;
+
+}
